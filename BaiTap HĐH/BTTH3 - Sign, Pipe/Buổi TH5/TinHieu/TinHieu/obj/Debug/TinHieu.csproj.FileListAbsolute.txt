@@ -1,0 +1,7 @@
+C:\Users\HH\source\TinHieu\TinHieu\obj\Debug\TinHieu.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\TinHieu\TinHieu\bin\Debug\TinHieu.exe.config
+C:\Users\HH\source\TinHieu\TinHieu\bin\Debug\TinHieu.exe
+C:\Users\HH\source\TinHieu\TinHieu\bin\Debug\TinHieu.pdb
+C:\Users\HH\source\TinHieu\TinHieu\obj\Debug\TinHieu.exe
+C:\Users\HH\source\TinHieu\TinHieu\obj\Debug\TinHieu.pdb
+C:\Users\HH\source\TinHieu\TinHieu\obj\Debug\TinHieu.csprojAssemblyReference.cache

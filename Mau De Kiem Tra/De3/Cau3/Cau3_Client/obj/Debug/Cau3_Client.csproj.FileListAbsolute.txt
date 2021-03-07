@@ -1,0 +1,7 @@
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De3\Cau3\Cau3_Client\bin\Debug\Cau3_Client.exe.config
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De3\Cau3\Cau3_Client\bin\Debug\Cau3_Client.exe
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De3\Cau3\Cau3_Client\bin\Debug\Cau3_Client.pdb
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De3\Cau3\Cau3_Client\obj\Debug\Cau3_Client.csprojAssemblyReference.cache
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De3\Cau3\Cau3_Client\obj\Debug\Cau3_Client.csproj.CoreCompileInputs.cache
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De3\Cau3\Cau3_Client\obj\Debug\Cau3_Client.exe
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De3\Cau3\Cau3_Client\obj\Debug\Cau3_Client.pdb

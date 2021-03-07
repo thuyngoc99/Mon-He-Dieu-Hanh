@@ -1,0 +1,7 @@
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau5\Cau5\bin\Debug\Cau5.exe.config
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau5\Cau5\bin\Debug\Cau5.exe
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau5\Cau5\bin\Debug\Cau5.pdb
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau5\Cau5\obj\Debug\Cau5.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau5\Cau5\obj\Debug\Cau5.exe
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau5\Cau5\obj\Debug\Cau5.pdb
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau5\Cau5\obj\Debug\Cau5.csprojAssemblyReference.cache

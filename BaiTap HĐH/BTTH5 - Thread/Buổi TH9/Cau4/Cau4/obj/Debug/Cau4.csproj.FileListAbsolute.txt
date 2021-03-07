@@ -1,0 +1,7 @@
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau4\Cau4\bin\Debug\Cau4.exe.config
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau4\Cau4\bin\Debug\Cau4.exe
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau4\Cau4\bin\Debug\Cau4.pdb
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau4\Cau4\obj\Debug\Cau4.csprojAssemblyReference.cache
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau4\Cau4\obj\Debug\Cau4.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau4\Cau4\obj\Debug\Cau4.exe
+C:\Users\HH\source\BaiTap HĐH\BTTH5 - Thread\Buổi TH9\Cau4\Cau4\obj\Debug\Cau4.pdb

@@ -1,0 +1,7 @@
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De1\Cau3\Cau3\bin\Debug\Cau3.exe.config
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De1\Cau3\Cau3\bin\Debug\Cau3.exe
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De1\Cau3\Cau3\bin\Debug\Cau3.pdb
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De1\Cau3\Cau3\obj\Debug\Cau3.csprojAssemblyReference.cache
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De1\Cau3\Cau3\obj\Debug\Cau3.csproj.CoreCompileInputs.cache
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De1\Cau3\Cau3\obj\Debug\Cau3.exe
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De1\Cau3\Cau3\obj\Debug\Cau3.pdb

@@ -1,0 +1,14 @@
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Server\Server\bin\Debug\Server.exe.config
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Server\Server\bin\Debug\Server.exe
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Server\Server\bin\Debug\Server.pdb
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Server\Server\obj\Debug\Server.exe
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Server\Server\obj\Debug\Server.pdb
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Bai1_1\Server\Server\bin\Debug\Server.exe.config
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Bai1_1\Server\Server\bin\Debug\Server.exe
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Bai1_1\Server\Server\bin\Debug\Server.pdb
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Bai1_1\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Bai1_1\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Bai1_1\Server\Server\obj\Debug\Server.exe
+C:\Users\HH\source\BTTH4-HeDieuHanh\Bai1\Bai1_1\Server\Server\obj\Debug\Server.pdb

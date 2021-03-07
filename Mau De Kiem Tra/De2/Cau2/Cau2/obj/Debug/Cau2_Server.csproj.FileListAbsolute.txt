@@ -1,0 +1,7 @@
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De2\Cau2\Cau2\bin\Debug\Cau2.exe.config
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De2\Cau2\Cau2\bin\Debug\Cau2.exe
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De2\Cau2\Cau2\bin\Debug\Cau2.pdb
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De2\Cau2\Cau2\obj\Debug\Cau2_Server.csprojAssemblyReference.cache
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De2\Cau2\Cau2\obj\Debug\Cau2_Server.csproj.CoreCompileInputs.cache
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De2\Cau2\Cau2\obj\Debug\Cau2.exe
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De2\Cau2\Cau2\obj\Debug\Cau2.pdb

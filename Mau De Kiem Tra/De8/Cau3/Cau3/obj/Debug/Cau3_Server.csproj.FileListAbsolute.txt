@@ -1,0 +1,6 @@
+C:\Users\HH\source\DeKTraHeDieuHanh\De8\Cau3\Cau3\bin\Debug\Cau3.exe.config
+C:\Users\HH\source\DeKTraHeDieuHanh\De8\Cau3\Cau3\bin\Debug\Cau3.exe
+C:\Users\HH\source\DeKTraHeDieuHanh\De8\Cau3\Cau3\bin\Debug\Cau3.pdb
+C:\Users\HH\source\DeKTraHeDieuHanh\De8\Cau3\Cau3\obj\Debug\Cau3_Server.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\DeKTraHeDieuHanh\De8\Cau3\Cau3\obj\Debug\Cau3.exe
+C:\Users\HH\source\DeKTraHeDieuHanh\De8\Cau3\Cau3\obj\Debug\Cau3.pdb

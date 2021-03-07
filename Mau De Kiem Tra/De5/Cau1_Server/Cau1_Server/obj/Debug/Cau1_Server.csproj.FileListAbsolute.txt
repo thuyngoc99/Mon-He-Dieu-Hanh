@@ -1,0 +1,7 @@
+C:\Users\HH\source\DeKTraHeDieuHanh\De5\Cau1_Server\Cau1_Server\bin\Debug\Cau1_Server.exe.config
+C:\Users\HH\source\DeKTraHeDieuHanh\De5\Cau1_Server\Cau1_Server\bin\Debug\Cau1_Server.exe
+C:\Users\HH\source\DeKTraHeDieuHanh\De5\Cau1_Server\Cau1_Server\bin\Debug\Cau1_Server.pdb
+C:\Users\HH\source\DeKTraHeDieuHanh\De5\Cau1_Server\Cau1_Server\obj\Debug\Cau1_Server.csprojAssemblyReference.cache
+C:\Users\HH\source\DeKTraHeDieuHanh\De5\Cau1_Server\Cau1_Server\obj\Debug\Cau1_Server.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\DeKTraHeDieuHanh\De5\Cau1_Server\Cau1_Server\obj\Debug\Cau1_Server.exe
+C:\Users\HH\source\DeKTraHeDieuHanh\De5\Cau1_Server\Cau1_Server\obj\Debug\Cau1_Server.pdb

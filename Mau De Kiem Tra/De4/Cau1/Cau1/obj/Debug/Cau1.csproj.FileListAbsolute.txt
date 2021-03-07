@@ -1,0 +1,6 @@
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De4\Cau1\Cau1\bin\Debug\Cau1.exe.config
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De4\Cau1\Cau1\bin\Debug\Cau1.exe
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De4\Cau1\Cau1\bin\Debug\Cau1.pdb
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De4\Cau1\Cau1\obj\Debug\Cau1.csproj.CoreCompileInputs.cache
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De4\Cau1\Cau1\obj\Debug\Cau1.exe
+C:\Users\HH\Desktop\DeKTraHeDieuHanh\De4\Cau1\Cau1\obj\Debug\Cau1.pdb

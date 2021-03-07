@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\BT Hệ Điều Hành\Cau1.1\Cau1.1\bin\Debug\Cau1.1.exe.config
+C:\Users\Administrator\source\BT Hệ Điều Hành\Cau1.1\Cau1.1\bin\Debug\Cau1.1.exe
+C:\Users\Administrator\source\BT Hệ Điều Hành\Cau1.1\Cau1.1\bin\Debug\Cau1.1.pdb
+C:\Users\Administrator\source\BT Hệ Điều Hành\Cau1.1\Cau1.1\obj\Debug\Cau1.1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\BT Hệ Điều Hành\Cau1.1\Cau1.1\obj\Debug\Cau1.1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\BT Hệ Điều Hành\Cau1.1\Cau1.1\obj\Debug\Cau1.1.exe
+C:\Users\Administrator\source\BT Hệ Điều Hành\Cau1.1\Cau1.1\obj\Debug\Cau1.1.pdb
+C:\Users\HH\source\BaiTap HĐH\BTTH6 - SCHEDULING (LẬP LỊCH)\BT Buổi 10\Cau1.1\Cau1.1\bin\Debug\Cau1.1.exe.config
+C:\Users\HH\source\BaiTap HĐH\BTTH6 - SCHEDULING (LẬP LỊCH)\BT Buổi 10\Cau1.1\Cau1.1\bin\Debug\Cau1.1.exe
+C:\Users\HH\source\BaiTap HĐH\BTTH6 - SCHEDULING (LẬP LỊCH)\BT Buổi 10\Cau1.1\Cau1.1\bin\Debug\Cau1.1.pdb
+C:\Users\HH\source\BaiTap HĐH\BTTH6 - SCHEDULING (LẬP LỊCH)\BT Buổi 10\Cau1.1\Cau1.1\obj\Debug\Cau1.1.csprojAssemblyReference.cache
+C:\Users\HH\source\BaiTap HĐH\BTTH6 - SCHEDULING (LẬP LỊCH)\BT Buổi 10\Cau1.1\Cau1.1\obj\Debug\Cau1.1.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\BaiTap HĐH\BTTH6 - SCHEDULING (LẬP LỊCH)\BT Buổi 10\Cau1.1\Cau1.1\obj\Debug\Cau1.1.exe
+C:\Users\HH\source\BaiTap HĐH\BTTH6 - SCHEDULING (LẬP LỊCH)\BT Buổi 10\Cau1.1\Cau1.1\obj\Debug\Cau1.1.pdb

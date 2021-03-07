@@ -1,0 +1,10 @@
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\bin\Debug\Baitap3.exe.config
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\bin\Debug\Baitap3.exe
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\bin\Debug\Baitap3.pdb
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\obj\Debug\Baitap3.csprojAssemblyReference.cache
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\obj\Debug\Baitap3.Form1.resources
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\obj\Debug\Baitap3.Properties.Resources.resources
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\obj\Debug\Baitap3.csproj.GenerateResource.cache
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\obj\Debug\Baitap3.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\obj\Debug\Baitap3.exe
+C:\Users\HH\source\BT_HeDieuHanh\Baitap3\Baitap3\obj\Debug\Baitap3.pdb

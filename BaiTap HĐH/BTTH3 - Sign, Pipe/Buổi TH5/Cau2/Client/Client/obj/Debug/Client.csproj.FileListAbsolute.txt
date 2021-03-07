@@ -1,0 +1,13 @@
+C:\Users\HH\source\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\Client\Client\bin\Debug\Client.exe.config
+C:\Users\HH\source\Client\Client\bin\Debug\Client.exe
+C:\Users\HH\source\Client\Client\bin\Debug\Client.pdb
+C:\Users\HH\source\Client\Client\obj\Debug\Client.exe
+C:\Users\HH\source\Client\Client\obj\Debug\Client.pdb
+C:\Users\HH\source\BaiTap HĐH\BTTH3 - Sign, Pipe\Buổi TH5\Cau2\Client\Client\bin\Debug\Client.exe.config
+C:\Users\HH\source\BaiTap HĐH\BTTH3 - Sign, Pipe\Buổi TH5\Cau2\Client\Client\bin\Debug\Client.exe
+C:\Users\HH\source\BaiTap HĐH\BTTH3 - Sign, Pipe\Buổi TH5\Cau2\Client\Client\bin\Debug\Client.pdb
+C:\Users\HH\source\BaiTap HĐH\BTTH3 - Sign, Pipe\Buổi TH5\Cau2\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\HH\source\BaiTap HĐH\BTTH3 - Sign, Pipe\Buổi TH5\Cau2\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\BaiTap HĐH\BTTH3 - Sign, Pipe\Buổi TH5\Cau2\Client\Client\obj\Debug\Client.exe
+C:\Users\HH\source\BaiTap HĐH\BTTH3 - Sign, Pipe\Buổi TH5\Cau2\Client\Client\obj\Debug\Client.pdb
